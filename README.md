@@ -1,2 +1,2 @@
 # porto_doraemon
-portofolio ini dibuat dengan boostrap5 
+latihan membuat portofolio  dengan boostrap5 
